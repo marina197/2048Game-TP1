@@ -5,9 +5,6 @@ package tp.pr3.exceptions;
  * <p>
  * Excepción lanzada para finalizar el juego.
  * </p>
- *
- * @author Marina Lozano Lahuerta
- * @author Pablo López Veleiro
  */
 public class GameOverException extends Exception {
 	/**
