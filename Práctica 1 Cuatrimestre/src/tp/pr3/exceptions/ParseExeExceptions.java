@@ -5,9 +5,6 @@ package tp.pr3.exceptions;
  * <p>
  * Excepción lanzada cuando se produce un error.
  * </p>
- *
- * @author Marina Lozano Lahuerta
- * @author Pablo López Veleiro
  */
 public class ParseExeExceptions extends Exception {
 	/**
